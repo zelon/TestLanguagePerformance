@@ -1,0 +1,12 @@
+*.swp
+
+CSharp/.vs/
+CSharp/TestCSharpPerformance/bin/
+CSharp/TestCSharpPerformance/obj
+
+Cpp/.vs/
+Cpp/TestCppPerformance/x64/
+Cpp/TestCppPerformance/x64/
+Cpp/x64/
+
+Rust/.idea/

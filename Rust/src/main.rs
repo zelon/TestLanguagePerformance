@@ -2,7 +2,7 @@ fn main() {
     let loop_count = 10000000000;
     let mut total : i64 = 0;
     let start_time = std::time::SystemTime::now();
-    for i in 0..=loop_count {
+    for i in 0..loop_count {
         total += i;
     }
     let end_time = std::time::SystemTime::now();
